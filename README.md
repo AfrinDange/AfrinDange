@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong><a href="https://afrindange.github.io/" style="font-size:1.2em">🌐 afrindange.github.io</a></strong>  
-  • <a href="https://www.linkedin.com/in/afrindange">LinkedIn</a>
 </p>
 
 ---
